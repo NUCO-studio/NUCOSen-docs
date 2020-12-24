@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: NUCOSen Docs
+logo: /img/logo.png
+description: NUCOSen関連文書保管庫
+show_downloads: false
+google_analytics:
